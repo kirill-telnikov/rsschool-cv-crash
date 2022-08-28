@@ -18,20 +18,20 @@
 
 ### Tech and Soft Skil
 
-+HTML5
-+CSS3
-+GIT
-+JavaScript
-+Teamwork
-+Scrum
+*HTML5
+*CSS3
+*GIT
+*JavaScript
+*Teamwork
+*Scrum
 
 ---
 
 ### Code example
 
-**KATA from CODEWARS:**\n\n
+**KATA from CODEWARS:**
 
-Instructions: This code does not execute properly. Try to figure out why.\n\n
+Instructions: This code does not execute properly. Try to figure out why.
 
 ```
 function multiply(a, b){
@@ -39,7 +39,7 @@ function multiply(a, b){
 }
 ```
 
-My answer:\n\n
+My answer:
 
 ```
 function multiply(a, b){
@@ -47,15 +47,17 @@ function multiply(a, b){
 }
 ```
 
+---
+
 ### Courses
 
-+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-+GoIT 7days Marathon Basic HTML and CSS
+*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+*GoIT 7days Marathon Basic HTML and CSS
 
 ---
 
 ### Languages
 
-+Ukrainian - Native
-+Russian - Native
-+English - Basic
+*Ukrainian - Native
+*Russian - Native
+\*English - Basic
